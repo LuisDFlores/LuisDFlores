@@ -1,6 +1,6 @@
 <h3 align="center">Your friendly Full-Stack developer from NYC</h3>
 
-  **I Love to skateboard and powerlift**
+  **Making a name for myself one line of code at a time!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
