@@ -1,8 +1,6 @@
-<h3 align="center">Your friendly Full-Stack developer in NYC</h3>
+<h3 align="center">Your friendly Full-Stack developer from NYC</h3>
 
- Reach me @ **devluisflores@gmail.com**
-
-  **I skateboard and powerlift**
+  **I Love to skateboard and powerlift**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
