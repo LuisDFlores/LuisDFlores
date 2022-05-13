@@ -1,19 +1,6 @@
-<h1 align="center">Hi 👋, I'm Luis Flores</h1>
 <h3 align="center">Your friendly Full-Stack developer in NYC</h3>
 
-- Currently working on **Void HomePage**
-
-- 🌱 I’m currently learning **react and sql**
-
-- 👯 I’m looking to collaborate on **bigger projects**
-
-- 🤝 I’m looking for help with **implementing secure practices**
-
-- 👨‍💻 All of my projects are available at [https://luisflores.netlify.app/](https://luisflores.netlify.app/)
-
-- 💬 Ask me about **c++**
-
-- 📫 How to reach me **devluisflores@gmail.com**
+- Reach me @ **devluisflores@gmail.com**
 
 - ⚡ Fun fact **I skateboard and powerlift**
 
