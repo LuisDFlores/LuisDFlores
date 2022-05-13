@@ -2,7 +2,7 @@
 
   **Making a name for myself one line of code at a time!**
   
-  <img align="right" alt="Coding" width="400" src="https://giphy.com/sushiboxru">
+  <img align="right" alt="Coding" width="400" src="https://gifer.com/en/YCZM">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
