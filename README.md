@@ -1,9 +1,7 @@
 <h3 align="center">Your friendly Full-Stack developer from NYC</h3>
 
   **Making a name for myself one line of code at a time!**
-  
-  <img align="right" alt="Coding" width="400" src="https://gifer.com/en/YCZM">
-
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/luisflores242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="luisflores242" height="30" width="40" /></a>
