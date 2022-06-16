@@ -1,6 +1,6 @@
-<h3 align="center">Your friendly Fullstack developer from NYC</h3>
+<h3 align="center">Your friendly Full-stack developer from NYC</h3>
 
-  **Making a name for myself one line of code at a time and with a lot of help of a helpful community!**
+  **Making a name for myself one line of code at a time!**
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
