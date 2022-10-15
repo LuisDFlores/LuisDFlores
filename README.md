@@ -1,4 +1,5 @@
-<h3 align="center">Your friendly fullstack developer from NYC</h3>
+<h3 align="center">Your friendly full-stack
+ developer from NYC</h3>
 
   **Making a name for myself one line of code at a time!**
  
